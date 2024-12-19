@@ -1,6 +1,6 @@
 public class hello{
     public static void main(String[] args){
-        System.out.println("hello world");
+        System.out.println("hello wordkjahsdkjhasjdhld");
         System.out.println(5*10);
         int age=20;
         System.out.println(age);
